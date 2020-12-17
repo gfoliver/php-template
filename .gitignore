@@ -1,0 +1,6 @@
+assets/css/*
+assets/js/*
+assets/fonts/*
+node_modules
+node_modules/*
+env.php
